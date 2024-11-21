@@ -10,7 +10,7 @@ This repository contains the stata code for a lecture, entitled "Recent Discussi
 - **Staggered DID**: I explain the issues on DID involving staggered treatment timing and many periods and introduce alternative estimators.
 - **DID and Time-Invariant Covariates**: I explain the concepts of Conditional Parallel Trends Asuumption and present sevaral methods to conduct DID estimation including time-invariant covariates. 
 - **DID and Time-Varying Covariates**: I explain the problems in using two-way fixed effects estimator with time-varying covariates and assumptions that should be satisfied to identify ATT.
-- **SyntheticDID**: I review the properties of Synthetic DID and apply this method to the actual data.
+- **Synthetic DID**: I review the properties of Synthetic DID and apply this method to the actual data.
 - **DID and Sensitivity Analysis**: I explain some disadvantages of conventional pre-trend tests and review some sensitivity analyses which is developed recently. 
 
 ---
