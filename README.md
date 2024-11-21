@@ -27,7 +27,7 @@ This repository contains the stata code for a lecture, entitled "Recent Discussi
 
 ### Prerequisites
 
-Make sure you have Python installed along with the following libraries:
+You need these packages to run do-files:
 
 - `reghdfe`
 - `ftools`
@@ -39,8 +39,20 @@ Make sure you have Python installed along with the following libraries:
 - `egenmore`
 - `sdid`
 - `sdid_event`
+- `honestdid`
 
-You can install these libraries with the following command:
+You can install these packages with the following command:
 
 ```bash
-pip install pandas numpy statsmodels matplotlib seaborn
+ssc install reghfe
+ssc install ftools
+ssc install event_plot
+ssc install addplot
+ssc install drdid
+ssc install csdid
+ssc install bacondecomp
+ssc install egenmore
+ssc install sdid
+ssc install sdid_event
+ssc install honestdid
+
