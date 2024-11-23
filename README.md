@@ -4,7 +4,7 @@ This repository contains the stata code for a lecture, entitled "Recent Discussi
 
 ---
 
-## 📋 Covered Contents
+##  Covered Contents
 
 - **Introduction to DID**: I explain the basic concepts of DID in the canonical case (2 periods, one group becomes treated in the second period, the other is never treated) and the conditions that should be satisfied to identify ATT (Avearge Treatment Effect on the Treated).
 - **Staggered DID**: I explain the issues on DID involving staggered treatment timing and many periods and introduce alternative estimators.
@@ -15,7 +15,7 @@ This repository contains the stata code for a lecture, entitled "Recent Discussi
 
 ---
 
-## 🛠 Features
+##  Features
 
 - Advanced lectures for second-year master's students in economics. 
 - Students are expected to already have a solid understanding of econometrics and causal inference.
@@ -23,9 +23,9 @@ This repository contains the stata code for a lecture, entitled "Recent Discussi
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### Prerequisites
+## Prerequisites
 
 You need these packages to run do-files:
 
