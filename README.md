@@ -2,8 +2,6 @@
 
 This repository contains the stata code for a lecture, entitled "Recent Discussions in Difference-in-Differences". It is designed for students and researchers who want to understand recent discussions on difference-in-differencs (DID) and implement recently developed methods using stata. 
 
----
-
 ##  Covered Contents
 
 - **Introduction to DID**: I explain the basic concepts of DID in the canonical case (2 periods, one group becomes treated in the second period, the other is never treated) and the conditions that should be satisfied to identify ATT (Avearge Treatment Effect on the Treated).
@@ -13,17 +11,11 @@ This repository contains the stata code for a lecture, entitled "Recent Discussi
 - **Synthetic DID**: I review the properties of Synthetic DID and apply this method to the actual data.
 - **DID and Sensitivity Analysis**: I explain some disadvantages of conventional pre-trend tests and review some sensitivity analyses which is developed recently. 
 
----
-
 ##  Features
 
 - Advanced lectures for second-year master's students in economics. 
 - Students are expected to already have a solid understanding of econometrics and causal inference.
 - Ready-to-use Stata code and datasets.
-
----
-
-##  Getting Started
 
 ## Prerequisites
 
